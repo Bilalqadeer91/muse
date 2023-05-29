@@ -6,4 +6,4 @@ Securing sensitive information is a critical aspect of cybersecurity, and yet, v
 **Usage**
 1. Clone the repository
 2. open main.py file, change the subdomain and give the list of subdomains for which you want to search.
-3. Then save the file and write command python3 main.py
+3. Then save the file and write command **python3 main.py**
